@@ -83,9 +83,9 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors
 
-* **[Benoit Parmentier]**(https://github.com/bparment1)
+* [Benoit Parmentier](https://github.com/bparment1)
 
-* **[Mohammad Eshghi]**(https://github.com/meshghi)
+* [Mohammad Eshghi](https://github.com/meshghi)
 
 See also the list of [contributors](https://github.com/bparment1/rastermodel/graphs/contributors) who participated in this project.
 
